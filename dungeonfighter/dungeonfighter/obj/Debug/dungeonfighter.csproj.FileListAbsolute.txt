@@ -1,0 +1,6 @@
+E:\Users\Stewart\Documents\Visual Studio 2015\Projects\dungeonfighter\dungeonfighter\bin\Debug\dungeonfighter.exe.config
+E:\Users\Stewart\Documents\Visual Studio 2015\Projects\dungeonfighter\dungeonfighter\bin\Debug\dungeonfighter.exe
+E:\Users\Stewart\Documents\Visual Studio 2015\Projects\dungeonfighter\dungeonfighter\bin\Debug\dungeonfighter.pdb
+E:\Users\Stewart\Documents\Visual Studio 2015\Projects\dungeonfighter\dungeonfighter\obj\Debug\dungeonfighter.exe
+E:\Users\Stewart\Documents\Visual Studio 2015\Projects\dungeonfighter\dungeonfighter\obj\Debug\dungeonfighter.pdb
+E:\Users\Stewart\Documents\Visual Studio 2015\Projects\dungeonfighter\dungeonfighter\obj\Debug\dungeonfighter.csprojResolveAssemblyReference.cache
